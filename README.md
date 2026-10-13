@@ -1,6 +1,6 @@
 # Disease Subtype Analysis with Missing Data
 
-Statistical methods and R/SAS code developed by Dr. Molin Wang's group for disease subtype analysis with missing subtype or biomarker information.
+Statistical methods and R/SAS code developed by Dr. Molin Wang's group and collaborators for disease subtype analysis with missing subtype or biomarker information.
 
 ## Available methods
 
